@@ -2,10 +2,9 @@
 
 ==============================================================
 EP1 - MAP2210
-1o. Semestre -2020 Prof.Dr. Luis Carlos de Castro Santos
+1o. Semestre -2020 
 
 Author : Pedro Blöss Braga
-NUSP 9896604 
 
 ==============================================================
 
