@@ -898,7 +898,7 @@ def gera_data_atual():
 
 
 
-def main(K, plota=True, path='/home/netpartners/Desktop/MAP2210/'):
+def main(K, plota=True, path='/home/pedro/Desktop/MAP2210/'):
 
     print(__doc__)
 
